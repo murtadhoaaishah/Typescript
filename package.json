@@ -1,0 +1,14 @@
+{
+  "name": "Typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/murtadhoaaishah/Typescript.git",
+  "author": "murtadhoaaishah <aishatmurtadho@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.1.6"
+  },
+  "dependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
